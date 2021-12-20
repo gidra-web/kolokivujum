@@ -1,0 +1,6 @@
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\DataAccessLayerShop\bin\Debug\DataAccessLayerShop.dll
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\DataAccessLayerShop\bin\Debug\DataAccessLayerShop.pdb
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\DataAccessLayerShop\obj\Debug\DataAccessLayerShop.csproj.AssemblyReference.cache
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\DataAccessLayerShop\obj\Debug\DataAccessLayerShop.csproj.CoreCompileInputs.cache
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\DataAccessLayerShop\obj\Debug\DataAccessLayerShop.dll
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\DataAccessLayerShop\obj\Debug\DataAccessLayerShop.pdb

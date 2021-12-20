@@ -1,0 +1,9 @@
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\bin\Debug\BusinessLayer.dll
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\bin\Debug\BusinessLayer.pdb
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\bin\Debug\DataAccessLayerShop.dll
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\bin\Debug\DataAccessLayerShop.pdb
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\obj\Debug\BusinessLayer.dll
+D:\Fakultet\C#\Vezba2\PresentationLayerShop\BusinessLayer\obj\Debug\BusinessLayer.pdb
